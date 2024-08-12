@@ -68,7 +68,8 @@ $APPLICATION->IncludeComponent(
     ),
     false
 );
-?>```
+?>
+```
 
 3. **Настройка параметров компонента**
 
